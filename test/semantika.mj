@@ -1,0 +1,99 @@
+program p
+
+const int a = 5, b = 7, c = 8;
+const int d = 9;
+const char e = 'e';
+
+int niz[];
+int niz1[];
+
+class A {
+	int a,b;
+	int c;
+	{
+		char metodaA()
+			int a;
+		{
+			return  e;
+		}
+	}
+}
+
+
+
+class B extends A {
+	int a;
+	{
+	
+	}
+}
+
+A klasaA;
+B klasaB;
+
+{
+	void main() 
+		int a;
+		int b, x;
+		char d;
+		char e, f;
+	 
+		char niz3[];
+		int niz2[];
+	{ 
+		b = ((b + x - x * a) - (a + b + a) + b + 5 + x + b * x - a);
+ 
+		niz1[b + 1 * x + (1 - 1 + a)] = 2 + 4 + x + niz1[1 + 2 + 3 + 4] + 3;
+
+		niz = new int[niz1[1] + 1 + 2 + niz1[1 + 2 + 3 + 4] + x + niz1[1 + 2 + 3 + 4] + niz[1]];
+ 
+ 
+		niz[1 + a + 1 * (a + x) / b * (a + ((x - b / x)) * a)] = niz[1] + niz[1];
+ 
+ 
+		niz = new int[b + niz[1] + x + niz[niz[1] + 7 + a + 1 + a + niz2[niz[1] + x - 3 + 6]] + 3 + 5 + niz[1]];
+ 
+		niz = new int[niz[niz[niz[a]]]];
+
+		klasaA = new A;
+
+		niz3 = new char[1];
+ 
+ 
+		niz = new int[1];
+ 
+		niz[niz[1 + 1 + 2 + niz[niz[1] + 1] + 3 + b] + 3 + b + niz[2] + b + 3 + niz[1]] = niz[1] + x + niz[1 + 1 + 1 + niz2[niz[1] + 1 + 2 + 3]] + 3 - 2 + 5;
+
+		niz[niz[niz[a + 1]]] = niz[1] + x + niz[1 + 1 + 1 + niz2[1 + 2 + 3] + niz[1]] + a;
+ 
+
+		niz[1] = b;
+
+		b = niz[1];
+
+
+
+		niz3[1 + 2 + 2] = d;
+
+
+		d = niz3[1 + 1 + 1];
+ 
+		klasaA = klasaA;
+
+ 
+ 
+		niz2[1] = niz2[niz2[1]];
+ 
+ 
+		d = niz3[1 + 1];
+
+
+		niz[3] = niz2[niz[niz[1 + 8 + 2 / x + a * (b + a)] + a + x * b / 1] + a * (b + x + a)] + niz[1 + 3 + niz[1]];
+
+		d = d;
+ 
+		d = niz3[niz[2]];
+ 
+		return;
+	}
+}

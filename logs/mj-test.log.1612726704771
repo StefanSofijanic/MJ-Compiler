@@ -1,0 +1,14 @@
+INFO  20:36:53,152 - Compiling source file: C:\Users\rzlat\Desktop\PP1_domaci_feb\test\program_sintaksa_ispravno.mj
+INFO  20:36:53,217 - #2 program
+INFO  20:36:53,217 - #14 TestSintaksaIspravno
+INFO  20:36:53,221 - #5 const
+INFO  20:36:53,221 - #14 int
+INFO  20:36:53,221 - #14 size
+INFO  20:36:53,221 - #40 =
+INFO  20:36:53,221 - #11 10
+INFO  20:36:53,221 - #6 ;
+INFO  20:36:53,221 - #14 abstract
+INFO  20:36:53,221 - #8 class
+ERROR 20:36:53,221 - 
+Sintaksna greska na liniji 4
+ERROR 20:36:53,221 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 4
